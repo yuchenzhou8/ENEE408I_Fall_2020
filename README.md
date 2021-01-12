@@ -28,8 +28,11 @@ In any case the robot provides regular reports on the health of its subject.
 * Notes - Short notes on how to install or fix issues with pieces of software
 * team2 - Robot code for F20 ENEE408I Team 2
 * Final_Code - Robot code for final demo
-* F20ENEE408I_team2_Final_Report.pdf -Final Report
+* [F20ENEE408I_team2_Final_Report.pdf](https://github.com/yuchenzhou8/ENEE408I_Fall_2020/blob/t2/F20ENEE408I_team2_Final_Report.pdf) -Final Report
 
 ## Final Robot (Yuchen's)
 <img src= "https://github.com/yuchenzhou8/ENEE408I_Fall_2020/blob/t2/Robot_img/Robot_1.jpg" width = '500'><br /> 
 <img src= "https://github.com/yuchenzhou8/ENEE408I_Fall_2020/blob/t2/Robot_img/Robot_2.jpg" width = '500'><br /> 
+
+## Final Report
+* [Final Report](https://github.com/yuchenzhou8/ENEE408I_Fall_2020/blob/t2/F20ENEE408I_team2_Final_Report.pdf)
