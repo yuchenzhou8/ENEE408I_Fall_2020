@@ -31,3 +31,5 @@ In any case the robot provides regular reports on the health of its subject.
 * F20ENEE408I_team2_Final_Report.pdf -Final Report
 
 ## Final Robot (Yuchen's)
+<img src= "https://github.com/yuchenzhou8/ENEE408I_Fall_2020/blob/t2/Robot_img/Robot_1.jpg" width = '500'><br /> 
+<img src= "https://github.com/yuchenzhou8/ENEE408I_Fall_2020/blob/t2/Robot_img/Robot_2.jpg" width = '500'><br /> 
