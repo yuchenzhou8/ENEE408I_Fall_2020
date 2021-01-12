@@ -1,5 +1,9 @@
 # ENEE408I Fall 2020 Team 2, University of Maryland
 Shared repository for students in the ENEE408I Fall 2020 offering<br />
+Instructors:
+* Dr. Glimer Blankenship (ECE Professor, gilblankenship@gmail.com)
+* Levi Burner (PhD, lburner@umd.edu)
+* Jay Renner (Lab Instructor, jrenner@umd.edu)
 <br />
 Team Member:
 * Yuchen Zhou (EE)
