@@ -4,7 +4,7 @@ Instructors:
 * Dr. Glimer Blankenship (ECE Professor, gilblankenship@gmail.com)
 * Levi Burner (PhD, lburner@umd.edu)
 * Jay Renner (Lab Instructor, jrenner@umd.edu)
-<br />
+
 Team Member:
 * Yuchen Zhou (EE)
 * Paulo Sousa (EE)
